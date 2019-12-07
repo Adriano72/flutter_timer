@@ -37,7 +37,7 @@ class Timer extends StatelessWidget {
       appBar: AppBar(title: Text('Flutter Timer')),
       body: Stack(
         children: [
-          //Background(),
+          Background(),
           Column(
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
